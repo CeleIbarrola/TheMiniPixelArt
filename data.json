@@ -1,0 +1,10 @@
+[
+    {"id":1, "nombre":"SET LEAVES", "precio": "10000", "img":"imagenes/setLeaves.jpg", "cantidad":1},
+    {"id":2, "nombre":"SET CACTUS", "precio": "15000", "img":"imagenes/setCactus.jpg", "cantidad":1},
+    {"id":3, "nombre":"SET EUCA LEAVES", "precio": "12000", "img":"imagenes/setEucaLeaves.jpg", "cantidad":1},
+    {"id":4, "nombre":"SET CUPS", "precio": "14000", "img":"imagenes/setCups.jpg", "cantidad":1},
+    {"id":5, "nombre":"SET ABSTRACT", "precio": "12000", "img":"imagenes/setAbstract.jpg", "cantidad":1},
+    {"id":6, "nombre":"SET FEATHERS", "precio": "12000", "img":"imagenes/setFeathers.jpg", "cantidad":1},
+    {"id":7, "nombre":"SET FLORAL", "precio": "10000", "img":"imagenes/setFloral.jpg", "cantidad":1},
+    {"id":8, "nombre":"SET KIDS", "precio": "14000", "img":"imagenes/setKids.jpg", "cantidad":1}
+]
